@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Star Wars Quiz App</string>
+
+    <string name="luke">Luke Skywalker</string>
+
+    <string name="obiwan">Obi-Wan Kenobi</string>
+
+    <string name="darthMaul">Darth Maul</string>
+
+    <string name="jarjarbinks">Jar Jar Binks</string>
+
+    <string name="question1">What is the title of the Star Wars Episode 3 ?</string>
+
+    <string name="question2">What is the color for Yoda\'s lightsaber?</string>
+
+    <string name="question3">Who is he?</string>
+
+    <string name="question4">What are these called?</string>
+
+    <string name="question5">What is the name for this droid?</string>
+
+    <string name="question6">Which of these name belong to the Jedi</string>
+
+    <string name="radio1">The Force Awakens</string>
+
+    <string name="radio2">The Phantom Menace</string>
+
+    <string name="radio3">Revenge of the Sith</string>
+
+    <string name="radio4">Green</string>
+
+    <string name="radio5">Purple</string>
+
+    <string name="radio6">Red</string>
+
+    <string name="radio7">Sword</string>
+
+    <string name="radio8">Shuriken</string>
+
+    <string name="radio9">Lightsaber</string>
+
+    <string name="radio10">Android</string>
+
+    <string name="radio11">R2-D2</string>
+
+    <string name="radio12">Optimus Prime</string>
+</resources>
+
